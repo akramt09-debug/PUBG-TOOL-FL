@@ -1,6 +1,6 @@
 # PUBG Tool
 
-Tunes your PC, GameLoop and PUBG Mobile in one place. Every change can be undone. Created by **FLOKI**.
+Tunes your PC, GameLoop and PUBG Mobile in one place: graphics up to 120 FPS, a live FPS and ping overlay, cleaner, network fixes. Every change can be undone. Created by **FLOKI**.
 
 ## Download
 
