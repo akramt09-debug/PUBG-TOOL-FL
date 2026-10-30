@@ -2,6 +2,8 @@
 
 Tunes your PC, GameLoop and PUBG Mobile in one place: graphics up to 120 FPS, a live FPS and ping overlay, cleaner, network fixes. Every change can be undone. Created by **FLOKI**.
 
+> **Ban risk:** PUBG Tool changes the game's settings files. PUBG's rules forbid third-party tools like this, so a ban is possible even if rare. Use it at your own risk.
+
 ## Download
 
 1. Open **[Releases](../../releases/latest)** and download **PUBG-Tool.zip**.
@@ -22,15 +24,17 @@ PUBG Tool updates itself: click **Update to ...** at the bottom, or **Overview >
 
 يحسّن الـ PC و GameLoop و PUBG Mobile في بلاصة وحدة، وكل تبديل يرجع. من صنع **FLOKI**.
 
+> **خطر الباند:** PUBG Tool يبدّل ملفات الإعدادات تاع اللعبة. قوانين PUBG تمنع الأدوات كيما هادي، والباند ممكن حتى لو نادر. الاستعمال على مسؤوليتك.
+
 ## التحميل
 
 1. حل **[Releases](../../releases/latest)** ونزّل **PUBG-Tool.zip**.
 2. قبل ما تحلو: كليك يمين على الـ zip ← **Properties** ← علّم **Unblock** ← **OK**.
 3. حلو وشغّل **PUBG-Tool.exe** (يطلب صلاحيات المسؤول).
 
-## أول مرة: الكود
+## مجاني دروك
 
-PUBG Tool يبينلك نيميرو الجهاز، مثلا `7K3M-Q9TX-2BRD`. اضغط **نسخ**، ابعثو لـ FLOKI، والصق الكود لي يبعثهولك واضغط **تفعيل**. الكود يخدم في جهاز واحد برك.
+PUBG Tool مجاني من جديد في وقت التجربة: ما يلزمش كود، يتحل ديراكت.
 
 ## التحديثات
 
