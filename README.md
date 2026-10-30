@@ -8,9 +8,9 @@ Tunes your PC, GameLoop and PUBG Mobile in one place: graphics up to 120 FPS, a 
 2. Before extracting: right-click the zip > **Properties** > tick **Unblock** > **OK**.
 3. Extract it and run **PUBG-Tool.exe** (it asks for administrator rights).
 
-## First start: your code
+## Free for now
 
-PUBG Tool shows this PC's number, like `7K3M-Q9TX-2BRD`. Press **Copy**, send it to FLOKI, and paste the code you get back. Then press **Activate**. One code works on one PC only.
+PUBG Tool is free again while it is being tested: no code is needed, it opens straight away.
 
 ## Updates
 
