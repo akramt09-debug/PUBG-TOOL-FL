@@ -10,9 +10,9 @@ Tunes your PC, GameLoop and PUBG Mobile in one place: graphics up to 120 FPS, a 
 2. Before extracting: right-click the zip > **Properties** > tick **Unblock** > **OK**.
 3. Extract it and run **PUBG-Tool.exe** (it asks for administrator rights).
 
-## Free for now
+## 3 free days, then a key
 
-PUBG Tool is free again while it is being tested: no code is needed, it opens straight away.
+Every PC gets 3 free days from the first start (PUBG Tool needs the internet once to start them). After that a key opens it: 1000 DA a month or 8000 DA for life in Algeria; outside Algeria, ask for the price. In PUBG Tool, click **Buy on WhatsApp** or **Discord**, pay, and send your PC number. The key works on that PC only.
 
 ## Updates
 
@@ -32,9 +32,9 @@ PUBG Tool updates itself: click **Update to ...** at the bottom, or **Overview >
 2. قبل ما تحلو: كليك يمين على الـ zip ← **Properties** ← علّم **Unblock** ← **OK**.
 3. حلو وشغّل **PUBG-Tool.exe** (يطلب صلاحيات المسؤول).
 
-## مجاني دروك
+## 3 أيام مجانية، ومن بعد مفتاح
 
-PUBG Tool مجاني من جديد في وقت التجربة: ما يلزمش كود، يتحل ديراكت.
+كل PC عندو 3 أيام مجانية من أول مرة يتحل (PUBG Tool يحتاج الأنترنت مرة وحدة باش يبداهم). من بعد يلزم مفتاح: 1000 دج للشهر ولا 8000 دج مدى الحياة في الجزائر؛ برّا الجزائر، اسأل على السعر. في PUBG Tool، اضغط **Buy on WhatsApp** ولا **Discord**، خلّص، وابعث رقم الـ PC تاعك. المفتاح يخدم في هذاك الـ PC برك.
 
 ## التحديثات
 
